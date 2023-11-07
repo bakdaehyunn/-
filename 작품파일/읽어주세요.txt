@@ -1,0 +1,13 @@
+1. 파일을 작동하기 위해선 먼저 파이썬 설치가 필요합니다.
+
+2.터미널에서 패키지를 설치 해주시면 됩니다.
+pip install -r requirements.txt
+
+또는 개별적으로 
+pip install cvlib
+pip install opencv-python
+pip install image
+pip install tensorflow
+를 설치해주시면 됩니다.
+
+3. 이후 파일을 실행하시면 입 벌림 탐지 프로그램이 작동됩니다.
